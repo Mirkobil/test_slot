@@ -1,0 +1,176 @@
+{
+  "frames": {
+    "panel_back.png": {
+      "frame": {
+        "x": 2,
+        "y": 2,
+        "w": 22,
+        "h": 27
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 22,
+        "h": 27
+      },
+      "sourceSize": {
+        "w": 22,
+        "h": 27
+      }
+    },
+    "orange_button/button_withdrawl_normal.png": {
+      "frame": {
+        "x": 26,
+        "y": 2,
+        "w": 18,
+        "h": 27
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 18,
+        "h": 27
+      },
+      "sourceSize": {
+        "w": 18,
+        "h": 27
+      }
+    },
+    "orange_button/button_withdrawl_hover.png": {
+      "frame": {
+        "x": 2,
+        "y": 31,
+        "w": 18,
+        "h": 27
+      },
+      "rotated": true,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 18,
+        "h": 27
+      },
+      "sourceSize": {
+        "w": 18,
+        "h": 27
+      }
+    },
+    "orange_button/button_withdrawl_clicked.png": {
+      "frame": {
+        "x": 31,
+        "y": 31,
+        "w": 18,
+        "h": 27
+      },
+      "rotated": true,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 18,
+        "h": 27
+      },
+      "sourceSize": {
+        "w": 18,
+        "h": 27
+      }
+    },
+    "green_button/button_bet_normal.png": {
+      "frame": {
+        "x": 46,
+        "y": 2,
+        "w": 18,
+        "h": 27
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 18,
+        "h": 27
+      },
+      "sourceSize": {
+        "w": 18,
+        "h": 27
+      }
+    },
+    "green_button/button_bet_hover.png": {
+      "frame": {
+        "x": 2,
+        "y": 51,
+        "w": 18,
+        "h": 27
+      },
+      "rotated": true,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 18,
+        "h": 27
+      },
+      "sourceSize": {
+        "w": 18,
+        "h": 27
+      }
+    },
+    "green_button/button_bet_disabled.png": {
+      "frame": {
+        "x": 31,
+        "y": 51,
+        "w": 18,
+        "h": 27
+      },
+      "rotated": true,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 18,
+        "h": 27
+      },
+      "sourceSize": {
+        "w": 18,
+        "h": 27
+      }
+    },
+    "green_button/button_bet_clicked.png": {
+      "frame": {
+        "x": 66,
+        "y": 2,
+        "w": 18,
+        "h": 27
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 18,
+        "h": 27
+      },
+      "sourceSize": {
+        "w": 18,
+        "h": 27
+      }
+    }
+  },
+  "meta": {
+    "app": "http://github.com/pixijs/assetpack",
+    "version": "1.0",
+    "image": "base@0.5x.png",
+    "format": "RGBA8888",
+    "size": {
+      "w": 86,
+      "h": 71
+    },
+    "scale": 0.5,
+    "related_multi_packs": []
+  }
+}

@@ -1,0 +1,171 @@
+{
+  "bundles": [
+    {
+      "name": "default",
+      "assets": []
+    },
+    {
+      "name": "background",
+      "assets": [
+        {
+          "alias": [
+            "background/background.png",
+            "background/background",
+            "background.png",
+            "background"
+          ],
+          "src": [
+            "background/background@2x.png",
+            "background/background@0.5x.png",
+            "background/background.png"
+          ],
+          "data": {
+            "tags": {
+              "m": true
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "game",
+      "assets": [
+        {
+          "alias": [
+            "game/spine/alien/alien-pro.atlas",
+            "alien-pro.atlas"
+          ],
+          "src": [
+            "game/spine/alien/alien-pro@2x.atlas",
+            "game/spine/alien/alien-pro@0.5x.atlas",
+            "game/spine/alien/alien-pro.atlas"
+          ],
+          "data": {
+            "tags": {
+              "m": true
+            }
+          }
+        },
+        {
+          "alias": [
+            "game/spine/alien/alien-pro.skel",
+            "alien-pro.skel"
+          ],
+          "src": [
+            "game/spine/alien/alien-pro.skel"
+          ],
+          "data": {
+            "tags": {
+              "m": true
+            }
+          }
+        },
+        {
+          "alias": [
+            "game/spine/hero/hero-pro.atlas",
+            "hero-pro.atlas"
+          ],
+          "src": [
+            "game/spine/hero/hero-pro@2x.atlas",
+            "game/spine/hero/hero-pro@0.5x.atlas",
+            "game/spine/hero/hero-pro.atlas"
+          ],
+          "data": {
+            "tags": {
+              "m": true
+            }
+          }
+        },
+        {
+          "alias": [
+            "game/spine/hero/hero-pro.skel",
+            "hero-pro.skel"
+          ],
+          "src": [
+            "game/spine/hero/hero-pro.skel"
+          ],
+          "data": {
+            "tags": {
+              "m": true
+            }
+          }
+        },
+        {
+          "alias": [
+            "game/spine/spineboy/spineboy-pro.atlas",
+            "spineboy-pro.atlas"
+          ],
+          "src": [
+            "game/spine/spineboy/spineboy-pro@2x.atlas",
+            "game/spine/spineboy/spineboy-pro@0.5x.atlas",
+            "game/spine/spineboy/spineboy-pro.atlas"
+          ],
+          "data": {
+            "tags": {
+              "m": true
+            }
+          }
+        },
+        {
+          "alias": [
+            "game/spine/spineboy/spineboy-pro.skel",
+            "spineboy-pro.skel"
+          ],
+          "src": [
+            "game/spine/spineboy/spineboy-pro.skel"
+          ],
+          "data": {
+            "tags": {
+              "m": true
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "loading",
+      "assets": [
+        {
+          "alias": [
+            "loading/loading_text_01.png",
+            "loading/loading_text_01",
+            "loading_text_01.png",
+            "loading_text_01"
+          ],
+          "src": [
+            "loading/loading_text_01@2x.png",
+            "loading/loading_text_01@0.5x.png",
+            "loading/loading_text_01.png"
+          ],
+          "data": {
+            "tags": {
+              "m": true
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "ui",
+      "assets": [
+        {
+          "alias": [
+            "ui/base",
+            "base"
+          ],
+          "src": [
+            "ui/base@2x.json",
+            "ui/base@0.5x.json",
+            "ui/base.json"
+          ],
+          "data": {
+            "tags": {
+              "m": true,
+              "tps": true
+            }
+          }
+        }
+      ]
+    }
+  ]
+}
