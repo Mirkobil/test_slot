@@ -28,7 +28,7 @@ export class ReelConfig {
 
   public static Default(): ReelConfig {
     return new ReelConfig({
-      gridSize: { x: 3, y: 3 },
+      gridSize: { x: 1, y: 3 },
       extra: 1,
       spacing: { x: 0, y: 0 },
     });
